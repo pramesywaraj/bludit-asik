@@ -1,4 +1,4 @@
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/bludit.svg" width="250" height="300"></div>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/bludit.svg" width="350" height="400"></div>
 
 <br/><br/>
 
