@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.worldvectorlogo.com/logos/bludit.svg" style="width:250px;height:250px;"></h1>
+<div align="center" style="width:250px;height:250px;"><img src="https://cdn.worldvectorlogo.com/logos/bludit.svg"></div>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
