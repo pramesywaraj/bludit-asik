@@ -1,7 +1,7 @@
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/bludit.svg" width="350" height="400"></div>
 
 <br/>
-<h1 align="center">Bludit</h1>
+<h1 align="center" style="font-size:200px">Bludit</h1>
 <br/>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
