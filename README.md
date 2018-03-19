@@ -1,11 +1,11 @@
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/bludit.svg" width="350" height="400"></div>
 
 <br/>
-<text align="center" style="font-size:200px">Bludit</text>
+<p align="center" style="font-size:200px"><b>BLUDIT</b></p>
 <br/>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
