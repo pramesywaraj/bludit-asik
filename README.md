@@ -4,8 +4,8 @@
 <p align="center" style="font-size:200px"><b>BLUDIT</b></p>
 <br/>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:--:
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
@@ -109,16 +109,24 @@
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 1. Akses Bludit melalui localhost anda dengan masuk ke 127.0.0.1
-2. Pilih bahasa.
-<img src="https://drive.google.com/file/d/1Z2Hovgk1bLABvVUkVNrwMvn2g3kmUzpU/view?usp=sharing"></img>
-3. Buat akun Bludit anda.
-<img src="https://drive.google.com/file/d/140hGQnTQE4lc1Du7RLkqz8BsMQr_tnlQ/view?usp=sharing"></img>
-4. Login dengan akun anda.
-5. Untuk membuat konten baru, masuk ke halaman dashboard dengan cara klik `admin panel` dibagian `Set up your new site` 
-6. Tampilan Dashboard admin
-<img src="https://drive.google.com/file/d/1w42Z67Izh4S6hDAmLVQ1ILOuGb0wXCXj/view?usp=sharing"></img>
-7. Untuk membuat post baru pilih menu `New content` pada bagian `PUBLISH`
-8. PIlih `Save` dan konten telah ter-publish
+
+2. Buat akun Bludit anda.
+<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(2).png"></img>
+
+3. Login dengan akun anda.
+<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(3).png"></img>
+
+4. Untuk membuat konten baru, masuk ke halaman dashboard dengan cara klik `admin panel` dibagian `Set up your new site` 
+<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/screenshot-localhost-2018.03.19-16-27-31.png"></img>
+
+5. Tampilan Dashboard admin
+<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(4).png"></img>
+
+6. Untuk membuat post baru pilih menu `New content` pada bagian `PUBLISH`
+<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(6).png"></img>
+
+7. PIlih `Save` dan konten telah ter-publish
+<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(7).png"></img>
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
