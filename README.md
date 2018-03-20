@@ -158,5 +158,5 @@ server {
 [`^ kembali ke atas ^`](#)
 
 # Referensi
-[Install and Configure Bludit on Ubuntu](https://hostpresto.com/community/tutorials/install-and-configure-bludit-cms-on-ubuntu-16-04/)
-[About Bludit](https://www.bludit.com/) - Bludit
+1. [Install and Configure Bludit on Ubuntu](https://hostpresto.com/community/tutorials/install-and-configure-bludit-cms-on-ubuntu-16-04/)
+2. [About Bludit](https://www.bludit.com/) - Bludit
