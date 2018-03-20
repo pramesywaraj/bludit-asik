@@ -167,6 +167,7 @@
 - UI kurang menarik karena memakai warna dan ikon yang monoton.
 
 **Aplikasi yang sama**
+</br>
 ***Chyrp Lite*** merupakan aplikasi yang dapat dikatakan aplikasi dengan requirements paling minimal dan dapat mengatur *users* dan *visitors* menggunakan model komprehensif yang benar.
 
 # Referensi
