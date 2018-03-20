@@ -4,7 +4,7 @@
 <h1 align="center">BLUDIT</h1>
 <br/>
 
-[----] | [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi) | [----]
+| [----] | [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi) | [----] |
 :----:|:----:|:----:|:----:|:----:|:----:
 
 # Sekilas Tentang
