@@ -5,7 +5,7 @@
 <br/>
 
 ---- | [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi) | ----
-:----:|:----:|:----:|:----:|:----:|:----:
+:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
