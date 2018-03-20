@@ -17,20 +17,32 @@
 [`^ kembali ke atas ^`](#)
 
 **Kebutuhan Sistem :**
--   Ubuntu-16.04
--   Non-root user dengan pengaturan sudo privileges.
+-   Ubuntu Server 16.04,
+-   Web Server Nginx,
+-   PHP 5.3 atau PHP 7.0,
+-   PHP 7.0-fpm, PHP 7.0-cli, PHP 7.0-json, PHP 7.0-curl, PHP 7.0-gd, PHP 7.0-mysql, PHP 7.0-mbstring, PHP 7.0-xml,
+-   Virtual Box,
+-   Non-root user dengan pengaturan sudo privileges,
 -   IP address statik.
 
 **Proses Instalasi :**
 - *Update* sistem dengan versi yang terbaru dan *install  packages* yang diperlukan
+</br>
 `$ sudo apt-get update -y`
+</br>
 `$ sudo apt-get upgrade -y`
+</br>
 `$ sudo apt-get install nano wget unzip git curl`
 
 - *Install* Nginx, PHP dan modul PHP yang diperlukan
 `$ sudo apt-get install nginx`
-`$ sudo systemctl start nginx`  `sudo systemctl enable nginx`
+</br>
+`$ sudo systemctl start nginx`
+</br>
+`$ sudo systemctl enable nginx`
+</br>
 `$ sudo apt-get -y install php7.0-fpm php7.0-cli php7.0 json php7.0-curl php7.0-gd php7.0-mysql php7.0-mbstring php7.0-xml`
+</br>
 `$ sudo nano /etc/php/7.0/cli/php.ini`
 
 	```
@@ -100,7 +112,9 @@
 
 - Konfigurasi Firewall
 `$ sudo ufw enable`
+</br>
 `$ sudo ufw allow http`
+</br>
 `$ sudo ufw status`
 
 # Maintenance
@@ -132,6 +146,5 @@
 [`^ kembali ke atas ^`](#)
 
 # Referensi
-https://hostpresto.com/community/tutorials/install-and-configure-bludit-cms-on-ubuntu-16-04/
-
-https://www.bludit.com/
+[Install and Configure Bludit on Ubuntu](https://hostpresto.com/community/tutorials/install-and-configure-bludit-cms-on-ubuntu-16-04/)
+[About Bludit](https://www.bludit.com/) - Bludit
