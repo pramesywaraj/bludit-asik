@@ -1,7 +1,7 @@
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/bludit.svg" width="350" height="400"></div>
 
 <br/>
-<p align="center" style="font-size:200px"><b>BLUDIT</b></p>
+<text align="center" style="font-size:200px">BLUDIT</texts>
 <br/>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
@@ -27,22 +27,17 @@
 
 **Proses Instalasi :**
 - *Update* sistem dengan versi yang terbaru dan *install  packages* yang diperlukan
-</br>
+
 `$ sudo apt-get update -y`
-</br>
 `$ sudo apt-get upgrade -y`
-</br>
 `$ sudo apt-get install nano wget unzip git curl`
 
 - *Install* Nginx, PHP dan modul PHP yang diperlukan
+
 `$ sudo apt-get install nginx`
-</br>
 `$ sudo systemctl start nginx`
-</br>
 `$ sudo systemctl enable nginx`
-</br>
 `$ sudo apt-get -y install php7.0-fpm php7.0-cli php7.0 json php7.0-curl php7.0-gd php7.0-mysql php7.0-mbstring php7.0-xml`
-</br>
 `$ sudo nano /etc/php/7.0/cli/php.ini`
 
 	```
@@ -71,10 +66,23 @@
 	`$ sudo service php7.0-fpm restart`
 
 - Download Bludit
+
 `$ wget https://s3.amazonaws.com/bludit-s3/bludit-builds/bludit_latest.zip`
+
 `$ sudo unzip bludit_latest.zip -d /var/www/html/`
+
 `$ sudo chown -R www-data:www-data /var/www/html/bludit`
+
 `$ sudo chmod -R 755 /var/www/html/bludit`
+
+- Buka 127.0.0.1 pada browser kesayangan, kemudian akan diarahkan ke halaman instalasi Bludit seperti gambar dibawah. Pilih Bahasa yang diinginkan.
+<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(1).png"></img>
+
+- Kemudian buat password untuk admin.
+<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(2).png"></img>
+
+- Instalasi selesai :)).
+
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
@@ -121,22 +129,19 @@
 [`^ kembali ke atas ^`](#)
 1. Akses Bludit melalui localhost anda dengan masuk ke 127.0.0.1
 
-2. Buat akun Bludit anda.
-<img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(2).png"></img>
-
-3. Login dengan akun anda.
+2. Login dengan akun anda.
 <img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(3).png"></img>
 
-4. Untuk membuat konten baru, masuk ke halaman dashboard dengan cara klik `admin panel` dibagian `Set up your new site` 
+3. Untuk membuat konten baru, masuk ke halaman dashboard dengan cara klik `admin panel` dibagian `Set up your new site` 
 <img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/screenshot-localhost-2018.03.19-16-27-31.png"></img>
 
-5. Tampilan Dashboard admin
+4. Tampilan Dashboard admin
 <img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(4).png"></img>
 
-6. Untuk membuat post baru pilih menu `New content` pada bagian `PUBLISH`
+5. Untuk membuat post baru pilih menu `New content` pada bagian `PUBLISH`
 <img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(6).png"></img>
 
-7. PIlih `Save` dan konten telah ter-publish
+6. PIlih `Save` dan konten telah ter-publish
 <img src="https://raw.githubusercontent.com/pramesywaraj/bludit-asik/master/Screenshots/Screenshot%20(7).png"></img>
 
 # Pembahasan
