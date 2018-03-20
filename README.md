@@ -4,8 +4,8 @@
 <p align="center" style="font-size:200px"><b>BLUDIT</b></p>
 <br/>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:--:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
@@ -116,9 +116,6 @@
 `$ sudo ufw allow http`
 </br>
 `$ sudo ufw status`
-
-# Maintenance
-[`^ kembali ke atas ^`](#)
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
