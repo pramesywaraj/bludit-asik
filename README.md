@@ -5,7 +5,7 @@
 <h1 align="center">BLUDIT</h1>
 <br/>
 
----------- | [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi) | ----------
+--------- | [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi) | ---------
 :----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:
 
 # Sekilas Tentang
@@ -167,6 +167,7 @@
 - UI kurang menarik karena memakai warna dan ikon yang monoton.
 
 **Aplikasi yang sama**
+</br>
 </br>
 ***Chyrp Lite*** merupakan aplikasi yang dapat dikatakan aplikasi dengan requirements paling minimal dan dapat mengatur *users* dan *visitors* menggunakan model komprehensif yang benar.
 
